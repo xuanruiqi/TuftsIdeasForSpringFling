@@ -1,0 +1,10 @@
+# Flask secret key
+SECRET_KEY = 'secret'
+
+# Google App Engine
+DATA_BACKEND = 'datastore'
+PROJECT_ID = 'projectid'
+
+# Spotipy
+SPOTIFY_CLIENT_ID = 'spotifyid'
+SPOTIFY_CLIENT_SECRET = 'spotifysecret'
